@@ -1794,7 +1794,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   spriteRenderer: {fileID: 779553524}
-  animator: {fileID: 0}
+  animator: {fileID: 779553526}
 --- !u!70 &779553522
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
