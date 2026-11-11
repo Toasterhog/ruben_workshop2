@@ -88,7 +88,9 @@ public class CustomizablePlatformerMovement : MonoBehaviour
         velocity.x = moveInput.x * maxSpeed;
         
         // Write movement animation code here. (Suggestion: send your current velocity into the Animator for both the x- and y-axis.)
-        // animator.SetFloat("HorizontalMovement", moveInput.x)
+        //animator.SetFloat("HorizontalMovement", moveInput.x);
+        animator.SetBool("walkBool", Mathf.Abs(moveInput.x) > 0.1);
+        
         
         // Flip sprite according to direction (if a sprite renderer has been assigned)
         if (spriteRenderer)

@@ -3,29 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1305a617-b134-4795-b7ca-4c567d80002b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ruben_workshop2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ruben_workshop2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerDamage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerDamage/player_damage_generic_impact_crunch_01.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerDamage/player_damage_generic_impact_crunch_01.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_armour_01.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_armour_01.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_grass_02.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_grass_02.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_gravel_03.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_gravel_03.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_pneumatic_02.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/Player/PlayerFootsteps/player_footstep_pneumatic_02.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/PunchImpacts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/PunchImpacts/IMP_PUNCH_BODY_01.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/PunchImpacts/IMP_PUNCH_BODY_01.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/UI/UI_menu_button_01.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/UI/UI_menu_button_01.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/UI/sfx_ui_level_start.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/SFX/UI/sfx_ui_level_start.ogg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/playerAnmClip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/playerAnmClip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/CustomizablePlatformerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CustomizablePlatformerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +31,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -100,7 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1793969746663</updated>
       <workItem from="1793969748727" duration="10000" />
-      <workItem from="1793969770720" duration="2908000" />
+      <workItem from="1793969770720" duration="3743000" />
+      <workItem from="1794403105167" duration="1278000" />
     </task>
     <servers />
   </component>
