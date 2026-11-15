@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
 using UnityEngine.Serialization;
 
@@ -39,6 +40,7 @@ public class EnemyMovement : MonoBehaviour
     [Header("Graphics")]
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Animator animator;
+    public UnityEvent onBumpIntoWall;
     
     void Awake()
     {
@@ -68,6 +70,7 @@ public class EnemyMovement : MonoBehaviour
             else
             {
                 Debug.DrawRay(from + Vector2.up, dir * jumpLen, Color.red, 0.2f);
+                onBumpIntoWall?.Invoke();
             }
             Debug.DrawRay(from, dir * jumpLen, Color.yellow, 0.1f);
         }
