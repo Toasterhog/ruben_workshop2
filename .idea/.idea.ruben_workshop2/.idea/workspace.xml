@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1305a617-b134-4795-b7ca-4c567d80002b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ruben_workshop2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ruben_workshop2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/playerAnmClip.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/playerAnmClip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rectangular Palette.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rectangular Palette.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animation/playerAnimController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/playerAnimController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/grafik/slime_green.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/slime_green.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/TilePaletteStone.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/TilePaletteStone.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/CustomizablePlatformerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CustomizablePlatformerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +28,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000001671992724" />
+      <entry key="S2" value="1.0359590819760183" />
+      <entry key="S5" value="1.2644377409046068" />
+      <entry key="S10" value="1.5142351048982987" />
+      <entry key="S30" value="1.8038042600263553" />
+      <entry key="S60" value="2.0102180725007415" />
+      <entry key="M2" value="3.3721805749249856" />
+      <entry key="M5" value="12.13778017800432" />
+      <entry key="M10" value="26.80985532148829" />
+      <entry key="M15" value="39.58634500634551" />
+      <entry key="M30" value="72.47874642557979" />
+      <entry key="H1" value="117.31649100916142" />
+      <entry key="H2" value="163.8629210429227" />
+      <entry key="H4" value="205.7614817442667" />
+      <entry key="D1" value="266.5927073017232" />
+      <entry key="W1" value="281.3664441274411" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.2496423021784227E-118" />
+      <entry key="S2" value="3.343462445769141E-30" />
+      <entry key="S5" value="1.6224947206293267E-12" />
+      <entry key="S10" value="1.3181994435943242E-6" />
+      <entry key="S30" value="0.01556648794435195" />
+      <entry key="S60" value="0.1983431319173497" />
+      <entry key="M2" value="0.7639532301386964" />
+      <entry key="M5" value="1.9450731450258167" />
+      <entry key="M10" value="3.117493931963792" />
+      <entry key="M15" value="4.1320788248611064" />
+      <entry key="M30" value="7.084827587222649" />
+      <entry key="H1" value="11.511682269905204" />
+      <entry key="H2" value="17.202704824522716" />
+      <entry key="H4" value="23.999093212587525" />
+      <entry key="D1" value="36.18100010567724" />
+      <entry key="W1" value="39.41514155673534" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="7.410857448700231E-5" />
+      <entry key="MS500" value="0.14927060651601637" />
+      <entry key="S2" value="0.6429340133885606" />
+      <entry key="S5" value="1.0414949792443784" />
+      <entry key="S10" value="1.3726416987984764" />
+      <entry key="S30" value="1.7604144142230886" />
+      <entry key="S60" value="2.1737354651793512" />
+      <entry key="M2" value="4.1097190711878095" />
+      <entry key="M5" value="14.058385081707891" />
+      <entry key="M10" value="29.904094351181243" />
+      <entry key="M15" value="43.69513746678172" />
+      <entry key="M30" value="79.53910713823169" />
+      <entry key="H1" value="128.8058144888914" />
+      <entry key="H2" value="181.04849776133076" />
+      <entry key="H4" value="229.74891191531717" />
+      <entry key="D1" value="302.77091441675555" />
+      <entry key="W1" value="320.78115545039725" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
@@ -28,16 +101,26 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity 6000.3.9f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\UnityEditors\Unity 6000.3.9f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Temp\ruben_workshop2 -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Temp\ruben_workshop2" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -47,7 +130,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity 6000.3.9f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\UnityEditors\Unity 6000.3.9f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Temp\ruben_workshop2 -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Temp\ruben_workshop2" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -58,12 +141,10 @@
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false">
       <option name="allowRunningInParallel" value="false" />
+      <option name="coreClr" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>

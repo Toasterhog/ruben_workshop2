@@ -1,7 +1,8 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Serialization;
 
-            /////////////// INFORMATION ///////////////
+/////////////// INFORMATION ///////////////
 // This script is intended to work on a GameObject with
 // a Rigidbody2D-component (tip: it probably needs constraints),
 // a CapsuleCollider2D-component (or other Collider2D-shape that fits your character)
@@ -22,7 +23,7 @@ public class CustomizablePlatformerMovement : MonoBehaviour
     
     
     // Physics and collision
-    [SerializeField] private Rigidbody2D rigidbody;
+    [FormerlySerializedAs("rigidbody")] [SerializeField] private Rigidbody2D myRigidbody;
     [SerializeField] private CircleCollider2D groundCheckCollider;
     [SerializeField] private LayerMask groundLayer = ~0; // ~0 is referring to EVERY layer.
     
@@ -41,9 +42,9 @@ public class CustomizablePlatformerMovement : MonoBehaviour
     
     void Awake()
     {
-        rigidbody = GetComponent<Rigidbody2D>();
+        myRigidbody = GetComponent<Rigidbody2D>();
         
-        rigidbody.gravityScale = 0; // Set gravity scale to 0 so player won't "fall". We will apply our own gravity!
+        myRigidbody.gravityScale = 0; // Set gravity scale to 0 so player won't "fall". We will apply our own gravity!
 
         //animator = GetComponent<Animator>();
     }
@@ -81,7 +82,7 @@ public class CustomizablePlatformerMovement : MonoBehaviour
             // Has landed, play landing sound and trigger landing animation
         }
         
-        rigidbody.linearVelocity = velocity;
+        myRigidbody.linearVelocity = velocity;
         wasGrounded = isGrounded;
         
         //---Handle horizontal velocity---
