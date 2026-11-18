@@ -39,6 +39,7 @@ public class CustomizablePlatformerMovement : MonoBehaviour
     [Header("Graphics")]
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Animator animator;
+    [SerializeField] private ParticleSystem particleSystemFeetThrusters;
     
     void Awake()
     {
@@ -169,12 +170,14 @@ public class CustomizablePlatformerMovement : MonoBehaviour
             Debug.Log("Jump!");
             jumpInput = true;
             jumpReleased = false;
+            particleSystemFeetThrusters.Play();
         }
 
         if (context.canceled && controlEnabled)
         {
             jumpReleased = true;
             jumpInput = false;
+            particleSystemFeetThrusters.Stop();
         }
     }
 }
