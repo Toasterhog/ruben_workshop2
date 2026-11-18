@@ -12,187 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1305a617-b134-4795-b7ca-4c567d80002b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ruben_workshop2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ruben_workshop2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rectangular Palette.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rectangular Palette.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/idk_what_im_saving.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/idk_what_im_saving.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animation/EnemyAnim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animation/EnemyAnim.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/annat/PixelOperator8 SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/annat/PixelOperator8 SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/stone_packed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/stone_packed.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/TilePaletteStone.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/TilePaletteStone.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_0.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_0.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_0.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_0.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_1.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_1.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_10.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_10.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_10.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_10.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_11.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_11.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_11.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_11.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_12.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_12.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_12.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_12.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_13.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_13.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_13.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_13.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_14.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_14.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_14.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_14.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_15.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_15.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_15.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_15.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_16.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_16.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_16.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_16.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_17.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_17.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_17.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_17.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_18.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_18.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_18.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_18.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_19.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_19.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_19.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_19.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_2.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_2.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_2.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_20.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_20.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_20.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_20.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_21.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_21.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_21.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_21.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_22.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_22.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_22.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_22.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_23.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_23.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_23.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_23.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_24.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_24.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_24.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_24.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_25.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_25.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_25.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_25.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_26.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_26.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_26.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_26.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_27.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_27.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_27.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_27.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_28.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_28.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_28.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_28.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_29.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_29.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_29.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_29.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_3.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_3.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_3.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_30.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_30.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_30.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_30.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_31.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_31.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_31.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_31.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_32.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_32.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_32.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_32.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_33.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_33.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_33.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_33.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_34.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_34.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_34.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_34.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_35.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_35.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_35.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_35.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_36.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_36.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_36.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_36.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_37.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_37.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_37.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_37.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_38.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_38.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_38.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_38.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_39.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_39.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_39.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_39.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_4.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_4.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_4.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_40.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_40.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_40.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_40.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_41.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_41.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_41.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_41.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_42.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_42.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_42.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_42.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_43.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_43.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_43.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_43.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_44.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_44.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_44.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_44.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_45.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_45.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_45.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_45.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_46.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_46.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_46.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_46.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_47.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_47.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_47.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_47.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_48.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_48.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_48.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_48.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_49.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_49.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_49.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_49.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_5.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_5.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_5.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_50.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_50.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_50.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_50.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_51.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_51.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_51.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_51.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_52.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_52.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_52.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_52.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_53.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_53.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_53.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_53.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_54.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_54.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_54.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_54.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_55.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_55.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_55.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_55.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_56.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_56.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_56.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_56.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_57.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_57.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_57.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_57.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_58.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_58.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_58.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_58.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_59.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_59.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_59.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_59.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_6.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_6.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_6.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_60.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_60.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_60.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_60.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_61.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_61.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_61.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_61.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_62.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_62.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_62.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_62.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_63.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_63.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_63.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_63.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_64.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_64.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_64.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_64.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_65.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_65.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_65.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_65.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_66.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_66.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_66.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_66.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_67.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_67.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_67.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_67.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_68.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_68.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_68.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_68.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_69.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_69.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_69.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_69.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_7.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_7.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_7.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_7.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_70.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_70.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_70.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_70.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_71.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_71.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_71.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_71.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_72.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_72.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_72.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_72.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_73.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_73.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_73.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_73.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_74.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_74.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_74.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_74.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_75.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_75.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_75.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_75.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_76.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_76.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_76.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_76.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_77.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_77.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_77.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_77.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_78.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_78.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_78.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_78.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_79.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_79.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_79.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_79.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_8.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_8.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_8.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_8.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_80.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_80.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_80.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_80.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_9.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_9.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_9.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/grafik/tileStuff/stone_packed_9.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefabs/enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/enemy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefabs/objectTile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/objectTile.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/CustEnemyMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CustEnemyMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/scene2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/scene2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/CustomizablePlatformerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CustomizablePlatformerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,61 +30,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000003937699" />
-      <entry key="MS500" value="1.020847869792795" />
-      <entry key="S2" value="1.4518502994963236" />
-      <entry key="S5" value="2.471855412223893" />
-      <entry key="S10" value="3.8826093901389873" />
-      <entry key="S30" value="10.737409509975299" />
-      <entry key="S60" value="17.88134867837575" />
-      <entry key="M2" value="24.020478716762856" />
-      <entry key="M5" value="29.054750773834606" />
-      <entry key="M10" value="32.52095810770131" />
-      <entry key="M15" value="37.29766389527001" />
-      <entry key="M30" value="59.3099435775969" />
-      <entry key="H1" value="106.23791794377809" />
-      <entry key="H2" value="168.2143876105497" />
-      <entry key="H4" value="228.3744222167042" />
-      <entry key="D1" value="317.33394346191335" />
-      <entry key="W1" value="339.1104602161151" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000060425" />
+      <entry key="S2" value="1.001573958140479" />
+      <entry key="S5" value="1.0837426559231234" />
+      <entry key="S10" value="1.3663724512899798" />
+      <entry key="S30" value="3.2218819917790076" />
+      <entry key="S60" value="10.366832006882008" />
+      <entry key="M2" value="25.876235320694324" />
+      <entry key="M5" value="49.44740870200253" />
+      <entry key="M10" value="63.47783382138321" />
+      <entry key="M15" value="72.12331991657202" />
+      <entry key="M30" value="97.65707494678374" />
+      <entry key="H1" value="146.31915520329898" />
+      <entry key="H2" value="209.87856445388772" />
+      <entry key="H4" value="271.5382808733437" />
+      <entry key="D1" value="362.6965397295019" />
+      <entry key="W1" value="385.01364157668405" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.312394998035284E-113" />
-      <entry key="MS500" value="3.1917493977452173E-23" />
-      <entry key="S2" value="2.4544646399535653E-6" />
-      <entry key="S5" value="0.007524498132340719" />
-      <entry key="S10" value="0.13481616585634656" />
-      <entry key="S30" value="1.03821225997539" />
-      <entry key="S60" value="1.7588208726678065" />
-      <entry key="M2" value="2.2951046071128096" />
-      <entry key="M5" value="2.707917913760374" />
-      <entry key="M10" value="3.1639176215294604" />
-      <entry key="M15" value="3.9096609811924976" />
-      <entry key="M30" value="6.828301562793496" />
-      <entry key="H1" value="12.262131586169664" />
-      <entry key="H2" value="19.734062751985547" />
-      <entry key="H4" value="28.40421086245113" />
-      <entry key="D1" value="44.00951791563944" />
-      <entry key="W1" value="48.23226121675625" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.5917132224802373E-131" />
+      <entry key="S2" value="1.9974054526499458E-33" />
+      <entry key="S5" value="8.335188996178664E-14" />
+      <entry key="S10" value="3.0684066071711506E-7" />
+      <entry key="S30" value="0.0119504160772777" />
+      <entry key="S60" value="0.20746042673493628" />
+      <entry key="M2" value="0.8998270334224099" />
+      <entry key="M5" value="2.2041132858148047" />
+      <entry key="M10" value="3.2091243923937163" />
+      <entry key="M15" value="4.125793296761961" />
+      <entry key="M30" value="7.173933762504889" />
+      <entry key="H1" value="12.694358500944304" />
+      <entry key="H2" value="20.284803817588205" />
+      <entry key="H4" value="29.083690284254434" />
+      <entry key="D1" value="44.92732699576226" />
+      <entry key="W1" value="49.21940685091716" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.8478771476074855E-9" />
-      <entry key="MS500" value="0.02272470991024282" />
-      <entry key="S2" value="0.6283833826648867" />
-      <entry key="S5" value="1.9389532763645603" />
-      <entry key="S10" value="3.6376190807850253" />
-      <entry key="S30" value="11.523410449243444" />
-      <entry key="S60" value="19.46434324076368" />
-      <entry key="M2" value="26.208445037973537" />
-      <entry key="M5" value="31.713463023648135" />
-      <entry key="M10" value="35.65445849352824" />
-      <entry key="M15" value="41.18030319957119" />
-      <entry key="M30" value="66.11198304415406" />
-      <entry key="H1" value="118.47501052186463" />
-      <entry key="H2" value="187.92802354977465" />
-      <entry key="H4" value="256.7642432911848" />
-      <entry key="D1" value="361.3399160879311" />
-      <entry key="W1" value="387.3421723152932" />
+      <entry key="MS100" value="4.847876189060256E-9" />
+      <entry key="MS500" value="0.021732530810509108" />
+      <entry key="S2" value="0.3852150682162045" />
+      <entry key="S5" value="0.751178709554284" />
+      <entry key="S10" value="1.0955376456354124" />
+      <entry key="S30" value="2.8883453901767666" />
+      <entry key="S60" value="10.26415094617484" />
+      <entry key="M2" value="26.538438914376155" />
+      <entry key="M5" value="51.51570231638654" />
+      <entry key="M10" value="66.60509119131065" />
+      <entry key="M15" value="76.1861897363495" />
+      <entry key="M30" value="104.78616410642411" />
+      <entry key="H1" value="158.9789825006498" />
+      <entry key="H2" value="230.138057056633" />
+      <entry key="H4" value="300.6050633486939" />
+      <entry key="D1" value="407.619880506752" />
+      <entry key="W1" value="434.2324354996576" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
